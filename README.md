@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 -- 📫 How to reach me ayushkumar2007feb@gmail.com
 - passion: Communication,crypto trade,Bussiness analysis
-- 
+- skill: soft skills,event management,C,HTML
 
 
 <!---
